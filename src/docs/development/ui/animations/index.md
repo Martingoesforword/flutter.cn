@@ -17,6 +17,12 @@ animation types. Many widgets, especially [Material widgets][],
 come with the standard motion effects defined in their design spec,
 but it's also possible to customize these effects.
 
+精心设计的动画让用户界面感觉更直观，
+为应用程序提供精美流畅的感受，提高用户体验。
+Flutter的动画支持API使应用程序可以轻松地实现各种动画类型。
+许多Widget，特别是[Material Widgets][]，
+都带有它们设计规范中定义的标准动作效果，同时你也可以重新定制这些效果。
+
 ## Choosing an approach
 
 ## 选择一种实现方式
